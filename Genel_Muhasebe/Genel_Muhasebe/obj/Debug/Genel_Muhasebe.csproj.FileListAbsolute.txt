@@ -1,0 +1,10 @@
+C:\Users\Ömer Akincir\source\repos\Genel_Muhasebe\Genel_Muhasebe\bin\Debug\Genel_Muhasebe.exe.config
+C:\Users\Ömer Akincir\source\repos\Genel_Muhasebe\Genel_Muhasebe\bin\Debug\Genel_Muhasebe.exe
+C:\Users\Ömer Akincir\source\repos\Genel_Muhasebe\Genel_Muhasebe\bin\Debug\Genel_Muhasebe.pdb
+C:\Users\Ömer Akincir\source\repos\Genel_Muhasebe\Genel_Muhasebe\obj\Debug\Genel_Muhasebe.csprojAssemblyReference.cache
+C:\Users\Ömer Akincir\source\repos\Genel_Muhasebe\Genel_Muhasebe\obj\Debug\Genel_Muhasebe.Login.resources
+C:\Users\Ömer Akincir\source\repos\Genel_Muhasebe\Genel_Muhasebe\obj\Debug\Genel_Muhasebe.Properties.Resources.resources
+C:\Users\Ömer Akincir\source\repos\Genel_Muhasebe\Genel_Muhasebe\obj\Debug\Genel_Muhasebe.csproj.GenerateResource.cache
+C:\Users\Ömer Akincir\source\repos\Genel_Muhasebe\Genel_Muhasebe\obj\Debug\Genel_Muhasebe.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Akincir\source\repos\Genel_Muhasebe\Genel_Muhasebe\obj\Debug\Genel_Muhasebe.exe
+C:\Users\Ömer Akincir\source\repos\Genel_Muhasebe\Genel_Muhasebe\obj\Debug\Genel_Muhasebe.pdb
