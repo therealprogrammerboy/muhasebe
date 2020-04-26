@@ -46,6 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataBase\AdminKutuphane.cs" />
+    <Compile Include="DataBase\SqlVeriTabniBag.cs" />
+    <Compile Include="DataBase\UserKutuphane.cs" />
     <Compile Include="UI\Admin\MainFrameAdmin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +69,9 @@
     <Compile Include="UI\User\MainFrameUser.Designer.cs">
       <DependentUpon>MainFrameUser.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="UI\Admin\MainFrameAdmin.resx">
+      <DependentUpon>MainFrameAdmin.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UI\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
@@ -78,6 +84,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="UI\User\MainFrameUser.resx">
+      <DependentUpon>MainFrameUser.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
