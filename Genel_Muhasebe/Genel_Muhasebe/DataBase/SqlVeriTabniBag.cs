@@ -19,6 +19,8 @@ namespace Genel_Muhasebe.DataBase
                 command.ExecuteNonQuery();
                 SqlCommand sqlCommand=new SqlCommand("USE MYDATA CREATE TABLE ADMIN_DATA(ID NVARCHAR(5),PWD NVARCHAR(5)) CREATE TABLE USER_DATA(ID NVARCHAR(10),PWD NVARCHAR(10)) INSERT INTO ADMIN_DATA(ID,PWD) VALUES('ADMIN','ADMIN') ", connection);
                 sqlCommand.ExecuteNonQuery();
+                SqlCommand sql = new SqlCommand("CREATE TABLE URUNLER(urun_adi nvarchar(50),urun_fiyati nvarchar(50),urun_adedi nvarchar(50))", connection);
+                sql.ExecuteNonQuery();
                 connection.Close();
             }
             catch (Exception err)
